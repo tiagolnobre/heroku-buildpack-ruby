@@ -1,3 +1,7 @@
+## master
+
+* Update Bundler to 1.15.4 (#625)
+
 ## v169 (09/28/2017)
 
 * Yarn version upgraded to v1.0.2
